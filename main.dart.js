@@ -36239,18 +36239,18 @@ k.a=b.M(j).f.a.a
 b.M(j).toString
 k.a=1280
 b.M(j).toString
-A.fH(B.h.h(l)+" "+B.h.h(800))
+A.fH(B.h.h(l)+" "+B.h.h(768))
 j=$.bB()
-j.r=32
-j.w=16
+j.r=30.72
+j.w=15.36
 j.a=12.8
 j.b=499.20000000000005
 j.c=1254.4
-j.d=723.2
+j.d=691.2
 j.toString
 n.dx=486.40000000000003
-j=n.a07(l,800)
-s=n.a04(l,800)
+j=n.a07(l,768)
+s=n.a04(l,768)
 r=n.ay
 q=n.dx
 if(r!=null)r=A.bg(m,m,m,m,new A.d4(m,A.R1(m,r.c),A.tn(1),m,m,m,B.a1),q,m,m,q)
@@ -36259,7 +36259,7 @@ p=n.cy
 p.toString
 q=A.bg(m,new A.tg(1,new A.vP(p,new A.dz(p,t.Gh)),m),m,m,new A.d4(m,m,r,m,m,m,B.a1),q,m,m,q)
 r=q}q=t.D
-r=A.a9H(A.bg(m,A.dG(A.b([j,s,A.ha(A.dP(A.b([A.bg(m,r,m,m,m,m,m,m,m)],q),B.y,B.bU,B.x),m,m)],q),B.y,B.P,B.x),m,m,m,723.2,m,m,499.20000000000005),12.8)
+r=A.a9H(A.bg(m,A.dG(A.b([j,s,A.ha(A.dP(A.b([A.bg(m,r,m,m,m,m,m,m,m)],q),B.y,B.bU,B.x),m,m)],q),B.y,B.P,B.x),m,m,m,691.2,m,m,499.20000000000005),12.8)
 s=$.bB()
 j=s.b
 p=s.a
@@ -36682,12 +36682,12 @@ J(a,b){var s,r,q,p,o=this,n=null,m=t.w,l=b.M(m).f,k=b.M(m).f
 b.M(m).toString
 A.fH(B.d.h(l.a.a)+" "+B.d.h(k.a.b))
 k=$.bB()
-k.r=32
-k.w=16
+k.r=30.72
+k.w=15.36
 k.a=12.8
 k.b=499.20000000000005
 k.c=1254.4
-k.d=723.2
+k.d=691.2
 k.toString
 o.k2=486.40000000000003
 A.ll(" >>> Build Sum Canvas")
@@ -36701,7 +36701,7 @@ m=A.dG(A.b([new A.ce(new A.aD(0,l,0,l),k,n),A.bg(n,m,n,n,n,n,n,n,n)],s),B.y,B.P,
 k=o.k2
 l=$.bB()
 r=l.a
-k=A.bg(n,A.dG(A.b([m,A.afe(A.bg(n,new A.ce(new A.aD(r,r,r,r),A.GL(A.ass(A.ck(o.Q+"\n"+A.kG("skin, ",o.as)+A.kG("shape, ",o.at)+A.kG("eyes, ",o.ax)+A.kG("nose, ",o.ay)+A.kG("mouth, ",o.ch)+A.kG("ears, ",o.CW)+A.kG("hair, ",o.cx)+A.kG("eyebrows, ",o.cy)+A.kG("beard",o.db),n,n,n,A.bK(n,n,n,n,n,n,n,n,n,n,n,l.w,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)),o.go,!0,n),n),n,n,n,n,n,n,k))],s),B.y,B.P,B.x),n,n,n,723.2,n,n,499.20000000000005)
+k=A.bg(n,A.dG(A.b([m,A.afe(A.bg(n,new A.ce(new A.aD(r,r,r,r),A.GL(A.ass(A.ck(o.Q+"\n"+A.kG("skin, ",o.as)+A.kG("shape, ",o.at)+A.kG("eyes, ",o.ax)+A.kG("nose, ",o.ay)+A.kG("mouth, ",o.ch)+A.kG("ears, ",o.CW)+A.kG("hair, ",o.cx)+A.kG("eyebrows, ",o.cy)+A.kG("beard",o.db),n,n,n,A.bK(n,n,n,n,n,n,n,n,n,n,n,l.w,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)),o.go,!0,n),n),n,n,n,n,n,n,k))],s),B.y,B.P,B.x),n,n,n,691.2,n,n,499.20000000000005)
 l=$.bB()
 r=l.a
 k=A.a9H(k,r)
