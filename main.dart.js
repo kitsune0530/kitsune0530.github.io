@@ -36764,7 +36764,7 @@ var $async$kq=A.M(function(a5,a6){if(a5===1){p=a6
 s=q}while(true)switch(s){case 0:q=3
 m=0,e=t.z,d=n.z,c=t.G5,b=t.N,a=t.G
 case 6:if(!(m<3)){s=8
-break}l=A.agc("POST",A.y8("http://52.148.83.67:8086/generate",0,null))
+break}l=A.agc("POST",A.y8("http://52.148.83.67:8086/generate_no_des",0,null))
 k=A.aI(["Content-type","multipart/form-data"],b,b)
 j=new A.a8F()
 a0=n.Q
