@@ -36246,7 +36246,7 @@ $0(){A.dx(this.a,!1).i9(0,"Cancel")},
 $S:0}
 A.I5.prototype={
 J(a,b){A.a1o(A.a([B.zi],t.UW))
-return A.aro(new A.kw(null),A.ahu(B.ad),"Flutter Demo")}}
+return A.aro(new A.kw(null),A.ahu(B.ad),"Sketch-to-Face")}}
 A.QT.prototype={}
 A.kw.prototype={
 am(){var s=new A.Zx()
